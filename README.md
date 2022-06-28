@@ -6,3 +6,5 @@
 * Utilizado um código de cálculo de IMC
 * Teste de mutação utilizando o Pitest (https://pitest.org)
 * Analisado mutações geradas e porcentagem de mutações mortas
+
+## Alunos: Pierry Boettscher e Leonardo Oliva Neves
