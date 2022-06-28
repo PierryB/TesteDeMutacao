@@ -5,4 +5,4 @@
 * Feito em um projeto Maven
 * Utilizado um código de cálculo de IMC
 * Teste de mutação utilizando o Pitest (https://pitest.org)
-* Analisado mutações e porcentagem de mutações mortas
+* Analisado mutações geradas e porcentagem de mutações mortas
